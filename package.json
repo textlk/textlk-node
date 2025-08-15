@@ -1,6 +1,6 @@
 {
   "name": "textlk-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official Text.lk SMS API client for Node.js and JavaScript-based apps",
   "main": "src/index.js",
   "type": "module",
