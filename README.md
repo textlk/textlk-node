@@ -116,9 +116,3 @@ Do **NOT** call this function from frontend/browser code — your API token will
 ## 📄 License
 
 MIT License
-
----
-
-If you want, I can also **update the package structure and git repo instructions** so you can **push and publish `textlk-node` to npm immediately** with this new env-aware version.
-
-Do you want me to do that next?
